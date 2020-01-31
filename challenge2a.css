@@ -478,8 +478,9 @@ body {
 	}
 	.openingstijden {
 		float: right;
-		margin-top: -200px;
+		margin-top: -190px;
 		margin-right: 500px;
+		color: white;
 	}
 	.spar {
 		height: 60px;
